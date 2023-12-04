@@ -1,2 +1,0 @@
-Laborki[[:space:]]9[[:space:]]-[[:space:]]4.12 filter=lfs diff=lfs merge=lfs -text
-Laborki[[:space:]]9[[:space:]]-[[:space:]]4.12/data/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
